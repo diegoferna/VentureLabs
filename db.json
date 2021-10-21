@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "nome": "diego",
+      "sobrenome": "nascimento",
+      "email": "diego.ferna@Hotmail.com",
+      "telefone": "71987409718",
+      "cep": "41423190",
+      "endereco1": "R arnaldo oliveira",
+      "endereco2": "cajazeiras 10",
+      "dataNascimento": "03/04/1987",
+      "cpf": "01843011573",
+      "renda": "2000"
+    },
+    {
+      "nome": "Diego",
+      "sobrenome": "Nascimento",
+      "email": "diego.ferna@hotmail.com",
+      "telefone": "71987409718",
+      "cep": "41250423",
+      "endereco1": "Rua Professor Arnaldo Silveira",
+      "endereco2": "Rua Professor Arnaldo Silveira",
+      "dtnascimento": "1987-04-03",
+      "cpf": "06583296500",
+      "renda": "7.000",
+      "id": "1I2BsLb"
+    },
+    {
+      "nome": "ARYANNE STEFANI",
+      "sobrenome": "NASCIMENTO",
+      "email": "aryanne_calmon@hotmail.com",
+      "telefone": "71988706813",
+      "cep": "41340590",
+      "endereco1": "Caminho 10-Setor 01 (Cajazeiras X)",
+      "endereco2": "Caminho 10-Setor 01 (Cajazeiras X)",
+      "dtnascimento": "1987-04-03",
+      "cpf": "01843011573",
+      "renda": "7.000",
+      "id": "Pabtm2E"
+    },
+    {
+      "nome": "pazuelo",
+      "sobrenome": "noronha",
+      "email": "diego.ferna@hotmail.com",
+      "telefone": "71987409718",
+      "cep": "41250423",
+      "endereco1": "Rua Professor Arnaldo Silveira",
+      "endereco2": "Rua Professor Arnaldo Silveira",
+      "dtnascimento": "2219-02-20",
+      "cpf": "06583296500",
+      "renda": "7.000",
+      "id": "Kqx63wL"
+    }
+  ]
+}

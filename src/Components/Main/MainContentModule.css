@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 500px;
+    border-radius: 5;
+    margin: 2px;
+    flex-grow: 1;
+    background-color: antiquewhite;
+    box-shadow: 2;        
+}
+
